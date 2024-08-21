@@ -59,10 +59,10 @@ Shield Insurance needs to gain deeper insights into their customer base, revenue
 
 ## 📌 Project Presentation
 ### Video Presentation
-[![Shield Insurance Analysis Presentation](https://github.com/amanat-mahmud/Shield-Insurance-Analysis/blob/main/cover.png)](https://youtu.be/5kiMtXxRhRs)
+[![Shield Insurance Analysis Presentation](https://github.com/amanatMahmud123/Shield-Insurance-Analysis/blob/main/cover.png)](https://youtu.be/5kiMtXxRhRs)
 
 ### Slides
-The detailed presentation slides for this project can be found [here](https://github.com/amanat-mahmud/Shield-Insurance-Analysis/blob/main/slide.pdf)
+The detailed presentation slides for this project can be found [here](https://github.com/amanatMahmud123/Shield-Insurance-Analysis/blob/main/slide.pdf)
 
 ## 🧠 Project Learnings
 1. Data Loading and Transformations.
